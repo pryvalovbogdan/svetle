@@ -1,0 +1,7 @@
+.svelte/**
+static/**
+build/**
+node_modules/**
+.eslintrc
+package.json
+package-lock.json
